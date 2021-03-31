@@ -9,7 +9,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 …or create a new repository on the command line
-echo "# web_lpmp_ntb" >> README.md
+echo "# REPOSITORY" >> README.md
 git init
 git add README.md
 git commit -m "first commit"
